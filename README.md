@@ -10,7 +10,7 @@ Lucas Wehr
 Lab Section 2
 
 Davit Mkhoyan 
-Lab Section
+Lab Section 10
 
 Welcome to Pug Run! This game is all about survival, and there really isn't a way to win. 
 When you press play, cannon balls will come from two directions trying to hit you. 
