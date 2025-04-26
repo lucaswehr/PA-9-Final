@@ -1,12 +1,13 @@
 Pug-Run
-PA 9 Elliot Small 
+PA 9 
+Elliot Small 
 Lab Section 1
 
 Simon Anderson 
 Lab Section 4
 
-Lucas Wehr Lab
-Section 2
+Lucas Wehr 
+Lab Section 2
 
 Davit Mkhoyan 
 Lab Section
