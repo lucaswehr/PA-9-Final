@@ -3,6 +3,7 @@
 #include <SFML/Window.hpp>
 #include <SFML/Window/Keyboard.hpp>
 #include <SFML/Audio.hpp>
+#include <SFML/Network.hpp>
 
 #include "Shape.hpp"
 #include <iostream>

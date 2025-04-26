@@ -15,9 +15,10 @@ enum class gameState
 
 };
 
+
+
 int main()
 {
-
     Test t;
     t.testFont();
     t.testMusic();
@@ -25,8 +26,10 @@ int main()
     t.testTextures();
     t.testWindow();
 
-    std::string x;
 
+
+    std::string x;
+   
     srand(static_cast<unsigned>(time(0)));
 
     gameState gameState = gameState::mainMenu;

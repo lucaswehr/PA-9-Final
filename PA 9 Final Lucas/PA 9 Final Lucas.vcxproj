@@ -138,6 +138,7 @@
     <ClCompile Include="Animation.cpp" />
     <ClCompile Include="Circle.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="network.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Test.cpp" />
@@ -147,6 +148,7 @@
   <ItemGroup>
     <ClInclude Include="Animation.hpp" />
     <ClInclude Include="Circle.hpp" />
+    <ClInclude Include="network.hpp" />
     <ClInclude Include="Rectangle.hpp" />
     <ClInclude Include="Shape.hpp" />
     <ClInclude Include="Test.hpp" />
