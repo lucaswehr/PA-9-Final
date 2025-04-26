@@ -3,7 +3,7 @@ PA 9 Elliot Small
 Lab Section 1
 
 Simon Anderson 
-Lab Section 
+Lab Section 4
 
 Lucas Wehr Lab
 Section 2
